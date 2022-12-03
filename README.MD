@@ -23,8 +23,6 @@
 
 - **Rewards:** The winning team received a Raspberry Pi 400 kit, while all participants were gifted a Raspberry Pi Pico W.
 
-- **Obstacles:** Despite the praise for RAINBOW's utility, some participants faced time constraints and initial connectivity issues, which were mitigated with support from experienced researchers.
-
 ## Achievements:
 
 - **1st Place:** My team secured the 1st place in the hackathon.
